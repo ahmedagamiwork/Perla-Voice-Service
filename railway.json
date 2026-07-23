@@ -5,9 +5,7 @@
   },
   "deploy": {
     "preDeployCommand": [
-      "node dist/scripts/validate-catalog.js",
-      "node dist/scripts/migrate.js",
-      "node dist/scripts/seed.js"
+      "/bin/sh -c \"node dist/scripts/validate-catalog.js && node dist/scripts/migrate.js && node dist/scripts/seed.js\""
     ],
     "startCommand": "node dist/src/index.js",
     "healthcheckPath": "/health",
