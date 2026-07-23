@@ -1,0 +1,1271 @@
+{
+  "catalog_version": "2026-07-23",
+  "currency": "SAR",
+  "prices_unified_across_branches": true,
+  "products": [
+    {
+      "product_code": "1000001",
+      "name_ar": "فطاير مشكل كيلو",
+      "price_sar": 85.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "معجنات",
+      "aliases_ar": [
+        "فطاير مشكل كيلو",
+        "فطائر مشكل كيلو",
+        "فطاير مشكلة كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000002",
+      "name_ar": "مقالي كيلو",
+      "price_sar": 100.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "مقالي",
+      "aliases_ar": [
+        "مقالي كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000003",
+      "name_ar": "بوكس معجنات صغير",
+      "price_sar": 65.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "معجنات",
+      "aliases_ar": [
+        "بوكس معجنات صغير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000004",
+      "name_ar": "بوكس معجنات وسط",
+      "price_sar": 85.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "معجنات",
+      "aliases_ar": [
+        "بوكس معجنات وسط"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000005",
+      "name_ar": "بوكس معجنات كبير",
+      "price_sar": 110.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "معجنات",
+      "aliases_ar": [
+        "بوكس معجنات كبير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000006",
+      "name_ar": "ورق عنب / حبة",
+      "price_sar": 2.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "ورق عنب",
+      "aliases_ar": [
+        "ورق عنب / حبة",
+        "ورق عنب",
+        "حبة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000007",
+      "name_ar": "بوكس ورق عنب صغير",
+      "price_sar": 20.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "ورق عنب",
+      "aliases_ar": [
+        "بوكس ورق عنب صغير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000008",
+      "name_ar": "بوكس ورق عنب وسط",
+      "price_sar": 38.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "ورق عنب",
+      "aliases_ar": [
+        "بوكس ورق عنب وسط"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000009",
+      "name_ar": "مشكل شرقي كيلو",
+      "price_sar": 90.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "حلويات شرقية",
+      "aliases_ar": [
+        "مشكل شرقي كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000010",
+      "name_ar": "بسبوسة / كنافة",
+      "price_sar": 75.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "حلويات شرقية",
+      "aliases_ar": [
+        "بسبوسة / كنافة",
+        "بسبوسة",
+        "كنافة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000011",
+      "name_ar": "بقلاوة مشكل",
+      "price_sar": 115.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "حلويات شرقية",
+      "aliases_ar": [
+        "بقلاوة مشكل"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000012",
+      "name_ar": "عش البلبل / مبرومة",
+      "price_sar": 130.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "حلويات شرقية",
+      "aliases_ar": [
+        "عش البلبل / مبرومة",
+        "عش البلبل",
+        "مبرومة",
+        "المبرومة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000013",
+      "name_ar": "بوكس مشكل شرقي صغير",
+      "price_sar": 80.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "حلويات شرقية",
+      "aliases_ar": [
+        "بوكس مشكل شرقي صغير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000014",
+      "name_ar": "بوكس مشكل شرقي وسط",
+      "price_sar": 100.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "حلويات شرقية",
+      "aliases_ar": [
+        "بوكس مشكل شرقي وسط"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000015",
+      "name_ar": "بوكس مشكل شرقي كبير",
+      "price_sar": 110.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "حلويات شرقية",
+      "aliases_ar": [
+        "بوكس مشكل شرقي كبير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000016",
+      "name_ar": "معمول منوع كيلو",
+      "price_sar": 85.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "معمول",
+      "aliases_ar": [
+        "معمول منوع كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000017",
+      "name_ar": "بوكس معمول صغير",
+      "price_sar": 60.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "معمول",
+      "aliases_ar": [
+        "بوكس معمول صغير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000018",
+      "name_ar": "بوكس معمول وسط",
+      "price_sar": 70.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "معمول",
+      "aliases_ar": [
+        "بوكس معمول وسط"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000019",
+      "name_ar": "بوكس معمول كبير",
+      "price_sar": 110.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "معمول",
+      "aliases_ar": [
+        "بوكس معمول كبير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000020",
+      "name_ar": "حلا منزلي كيلو",
+      "price_sar": 100.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "حلا منزلي",
+      "aliases_ar": [
+        "حلا منزلي كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000021",
+      "name_ar": "بوكس حلا منزلي صغير",
+      "price_sar": 80.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "حلا منزلي",
+      "aliases_ar": [
+        "بوكس حلا منزلي صفير",
+        "بوكس حلا منزلي صغير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000022",
+      "name_ar": "بوكس حلا منزلي وسط",
+      "price_sar": 100.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "حلا منزلي",
+      "aliases_ar": [
+        "بوكس حلا منزلي وسط"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000023",
+      "name_ar": "بوكس حلا منزلي كبير",
+      "price_sar": 110.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "حلا منزلي",
+      "aliases_ar": [
+        "بوكس حلا منزلي كبير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000024",
+      "name_ar": "شوكولاتة مكشوفة كيلو",
+      "price_sar": 198.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "شوكولاتة",
+      "aliases_ar": [
+        "شوكولاته مكشوف كيلو",
+        "شوكولاتة مكشوفة كيلو",
+        "شوكلاته مكشوفة كيلو",
+        "شوكولاته مكشوفة كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000025",
+      "name_ar": "شوكولاتة فاخرة مغلفة كيلو",
+      "price_sar": 178.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "شوكولاتة",
+      "aliases_ar": [
+        "شوكولاته فاخرةمغلف كيلو",
+        "شوكولاتة فاخرة مغلفة كيلو",
+        "شوكلاته فاخرة مغلفة كيلو",
+        "شوكولاته فاخرة مغلفة كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000026",
+      "name_ar": "بوكس شوكولاتة صغير",
+      "price_sar": 85.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "شوكولاتة",
+      "aliases_ar": [
+        "بوكس شوكلاته صغير",
+        "بوكس شوكولاتة صغير",
+        "بوكس شوكولاته صغير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000027",
+      "name_ar": "بوكس شوكولاتة وسط",
+      "price_sar": 100.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "شوكولاتة",
+      "aliases_ar": [
+        "بوكس شوكلاتة وسط",
+        "بوكس شوكولاتة وسط",
+        "بوكس شوكلاته وسط",
+        "بوكس شوكولاته وسط"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000028",
+      "name_ar": "بوكس شوكولاتة كبير",
+      "price_sar": 140.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "شوكولاتة",
+      "aliases_ar": [
+        "بوكس شوكلاتة كبير",
+        "بوكس شوكولاتة كبير",
+        "بوكس شوكلاته كبير",
+        "بوكس شوكولاته كبير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000029",
+      "name_ar": "شوكولاتة معبأة في صواني / فازات",
+      "price_sar": 178.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "شوكولاتة",
+      "aliases_ar": [
+        "شوكولاته معبأة في صواني / فازات",
+        "شوكولاتة معبأة في صواني / فازات",
+        "شوكولاتة معبأة في صواني",
+        "فازات",
+        "شوكلاته معبأة في صواني / فازات"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000030",
+      "name_ar": "بيتيفور كيلو",
+      "price_sar": 85.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "بيتيفور كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000031",
+      "name_ar": "بوكس بيتيفور صغير",
+      "price_sar": 50.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "بوكس بيتيفور صغير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000032",
+      "name_ar": "بوكس بيتيفور وسط",
+      "price_sar": 60.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "بوكس بيتيفور وسط"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000033",
+      "name_ar": "بوكس بيتيفور كبير",
+      "price_sar": 110.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "بوكس بيتيفور كبير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000034",
+      "name_ar": "موالح منوعة كيلو",
+      "price_sar": 100.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "موالح منوعة كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000035",
+      "name_ar": "بوكس موالح",
+      "price_sar": 70.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "بوكس موالح"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000036",
+      "name_ar": "بوكس فطيرة تفاح",
+      "price_sar": 80.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "متنوعات",
+      "aliases_ar": [
+        "بوكس فطيرة تفاح"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000037",
+      "name_ar": "فطائر تفاح ميني كيلو",
+      "price_sar": 100.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "معجنات",
+      "aliases_ar": [
+        "فطائر تفاح ميني كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000038",
+      "name_ar": "غريبة كيلو",
+      "price_sar": 100.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "غريبة كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000039",
+      "name_ar": "بوكس غريبة",
+      "price_sar": 80.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "بوكس غريبة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000040",
+      "name_ar": "ماكرون",
+      "price_sar": 120.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "ماكرون",
+      "aliases_ar": [
+        "ماكرون"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000041",
+      "name_ar": "حبة ماكرون",
+      "price_sar": 4.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "ماكرون",
+      "aliases_ar": [
+        "حبة ماكرون"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000042",
+      "name_ar": "ميني كيك (جاتوه)",
+      "price_sar": 6.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "ميني كيك (جاتوه)"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000043",
+      "name_ar": "تورتة مقاس 22",
+      "price_sar": 85.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورته 22",
+        "تورتة مقاس 22",
+        "تورته مقاس 22"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000044",
+      "name_ar": "تورتة لوتس / روشيه / أوريو",
+      "price_sar": 90.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة لوتس/روشيه/أوريو",
+        "تورتة لوتس / روشيه / أوريو",
+        "تورتة لوتس",
+        "روشيه",
+        "أوريو",
+        "تورته لوتس / روشيه / أوريو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000045",
+      "name_ar": "تورتة تيراميسو / تشيز / موس مقاس 26",
+      "price_sar": 115.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة ترامسو/ تشيز/موس26",
+        "تورتة تيراميسو / تشيز / موس مقاس 26",
+        "تورتة تيراميسو",
+        "تشيز",
+        "موس مقاس 26",
+        "تورته تيراميسو / تشيز / موس مقاس 26"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000046",
+      "name_ar": "تورتة مقاس 28",
+      "price_sar": 110.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة مقاس28",
+        "تورتة مقاس 28",
+        "تورته مقاس 28"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000047",
+      "name_ar": "تورتة مقاس 32",
+      "price_sar": 140.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة 32",
+        "تورتة مقاس 32",
+        "تورته مقاس 32"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000048",
+      "name_ar": "تورتة مقاس 20 × 30",
+      "price_sar": 110.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة 20*30",
+        "تورتة مقاس 20 × 30",
+        "تورته مقاس 20 × 30"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000049",
+      "name_ar": "تورتة مقاس 25 × 35",
+      "price_sar": 185.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة 25*35",
+        "تورتة مقاس 25 × 35",
+        "تورته مقاس 25 × 35"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000050",
+      "name_ar": "تورتة مقاس 28 × 38",
+      "price_sar": 220.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة 28*38",
+        "تورتة مقاس 28 × 38",
+        "تورته مقاس 28 × 38"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000051",
+      "name_ar": "تورتة مقاس 30 × 40",
+      "price_sar": 270.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة 30*40",
+        "تورتة مقاس 30 × 40",
+        "تورته مقاس 30 × 40"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000052",
+      "name_ar": "تورتة مقاس 33 × 43",
+      "price_sar": 340.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة 33*43",
+        "تورتة مقاس 33 × 43",
+        "تورته مقاس 33 × 43"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000053",
+      "name_ar": "تورتة مقاس 40 × 60",
+      "price_sar": 490.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة 40*60",
+        "تورتة مقاس 40 × 60",
+        "تورته مقاس 40 × 60"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000054",
+      "name_ar": "تلبيس عجينة سكر",
+      "price_sar": 100.0,
+      "unit_code": "service",
+      "unit_ar": "خدمة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "تلبيس عجينة سكر"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000055",
+      "name_ar": "طباعة صورة",
+      "price_sar": 50.0,
+      "unit_code": "service",
+      "unit_ar": "خدمة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "طباعة صورة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000056",
+      "name_ar": "صواني وتحف فارغ",
+      "price_sar": 10.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "صواني وتحف فارغ"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000057",
+      "name_ar": "شوكولاتة دبي",
+      "price_sar": 25.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "شوكولاتة",
+      "aliases_ar": [
+        "شوكلاته دبي",
+        "شوكولاتة دبي",
+        "شوكولاته دبي"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000058",
+      "name_ar": "شمعة",
+      "price_sar": 5.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "شمعة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000059",
+      "name_ar": "علب هدايا أطفال",
+      "price_sar": 10.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "علب هدايا اطفال",
+        "علب هدايا أطفال"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000060",
+      "name_ar": "تغليف",
+      "price_sar": 5.0,
+      "unit_code": "service",
+      "unit_ar": "خدمة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "تغليف"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000061",
+      "name_ar": "برازق لؤلؤة",
+      "price_sar": 85.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "برازق لؤلؤة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000062",
+      "name_ar": "خلية نحل",
+      "price_sar": 15.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "معجنات",
+      "aliases_ar": [
+        "خلية نحل"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000063",
+      "name_ar": "بوكس مكس صغير",
+      "price_sar": 80.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "بوكسات مشكلة",
+      "aliases_ar": [
+        "بوكس مكس صغير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000064",
+      "name_ar": "بوكس مكس وسط",
+      "price_sar": 100.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "بوكسات مشكلة",
+      "aliases_ar": [
+        "بوكس مكس وسط"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000065",
+      "name_ar": "بوكس مكس كبير",
+      "price_sar": 110.0,
+      "unit_code": "box",
+      "unit_ar": "بوكس",
+      "category_ar": "بوكسات مشكلة",
+      "aliases_ar": [
+        "بوكس مكس كبير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000066",
+      "name_ar": "رول كيك صغير",
+      "price_sar": 8.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "رول كيك صغير"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000067",
+      "name_ar": "حلا أكواب كيك",
+      "price_sar": 10.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "حلا اكواب كيك",
+        "حلا أكواب كيك"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000068",
+      "name_ar": "تورتة فستق ورمان مقاس 22",
+      "price_sar": 90.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة فستق ورمان22",
+        "تورتة فستق ورمان مقاس 22",
+        "تورته فستق ورمان مقاس 22"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000069",
+      "name_ar": "كتابة على الكيك",
+      "price_sar": 5.0,
+      "unit_code": "service",
+      "unit_ar": "خدمة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "كتابه على الكيك",
+        "كتابة على الكيك"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000070",
+      "name_ar": "لوح شوكولاتة بطباعة",
+      "price_sar": 25.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "شوكولاتة",
+      "aliases_ar": [
+        "لوح شوكلاتة طباعه",
+        "لوح شوكولاتة بطباعة",
+        "لوح شوكلاته بطباعة",
+        "لوح شوكولاته بطباعة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000071",
+      "name_ar": "إيجار صينية",
+      "price_sar": 20.0,
+      "unit_code": "service",
+      "unit_ar": "خدمة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "اجار  صينيه",
+        "إيجار صينية"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000072",
+      "name_ar": "بكج 4 صواني نص كيلو",
+      "price_sar": 110.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "متنوعات",
+      "aliases_ar": [
+        "بكج 4 صواني نص كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000073",
+      "name_ar": "بكج 4 صواني كيلو",
+      "price_sar": 130.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "متنوعات",
+      "aliases_ar": [
+        "بكج 4 صواني كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000074",
+      "name_ar": "بكج 6 صواني كيلو",
+      "price_sar": 415.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "متنوعات",
+      "aliases_ar": [
+        "بكج 6 صواني كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000075",
+      "name_ar": "بكج 6 صواني نص كيلو",
+      "price_sar": 220.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "متنوعات",
+      "aliases_ar": [
+        "بكج 6 صواني نص كيلو"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000076",
+      "name_ar": "فلين",
+      "price_sar": 10.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "فلين"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000077",
+      "name_ar": "كب كيك",
+      "price_sar": 4.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "كب كيك"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000078",
+      "name_ar": "تمر محشي",
+      "price_sar": 100.0,
+      "unit_code": "kg",
+      "unit_ar": "كيلو",
+      "category_ar": "تمر محشي",
+      "aliases_ar": [
+        "تمر محشي"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000079",
+      "name_ar": "توصيل",
+      "price_sar": 20.0,
+      "unit_code": "service",
+      "unit_ar": "خدمة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "توصيل"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000080",
+      "name_ar": "تورتة مقاس 12",
+      "price_sar": 50.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تورتة مقاس 12",
+        "تورته مقاس 12"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000081",
+      "name_ar": "تارت فواكه / موس كيك / روشيه",
+      "price_sar": 10.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "كيك وتورتات",
+      "aliases_ar": [
+        "تارت فواكه/موس كيك/روشية",
+        "تارت فواكه / موس كيك / روشيه",
+        "تارت فواكه",
+        "موس كيك",
+        "روشيه"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000082",
+      "name_ar": "شابورة حلوة",
+      "price_sar": 5.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "مخبوزات وحلويات جافة",
+      "aliases_ar": [
+        "شابورة حلوة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000083",
+      "name_ar": "صينية شوكولاتة فارغة",
+      "price_sar": 50.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "صينية شوكولاته فارغة",
+        "صينية شوكولاتة فارغة",
+        "صينية شوكلاته فارغة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000084",
+      "name_ar": "قبعة تخرج صغيرة",
+      "price_sar": 15.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "قبعة تخرج صغيرة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    },
+    {
+      "product_code": "1000085",
+      "name_ar": "قبعة تخرج كبيرة",
+      "price_sar": 25.0,
+      "unit_code": "piece",
+      "unit_ar": "حبة",
+      "category_ar": "إضافات وخدمات",
+      "aliases_ar": [
+        "قبعة تخرج كبيرة"
+      ],
+      "pronunciation_hint": null,
+      "is_active": true,
+      "source": "المنتجات_شركة حلا لؤلؤة للتجارة2.xlsx"
+    }
+  ]
+}

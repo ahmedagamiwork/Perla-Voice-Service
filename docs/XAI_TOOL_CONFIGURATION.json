@@ -1,0 +1,16 @@
+{
+  "type": "mcp",
+  "server_url": "https://YOUR-SERVICE.up.railway.app/mcp",
+  "server_label": "perla_customer_service",
+  "server_description": "Official Perla Pastry customer-service catalog with unified prices for Al Kharj and Al Dilam.",
+  "authorization": "Bearer REPLACE_WITH_VOICE_API_TOKEN",
+  "allowed_tools": [
+    "search_products",
+    "get_product",
+    "list_categories",
+    "list_branches",
+    "get_branch",
+    "get_business_policy",
+    "get_official_links"
+  ]
+}

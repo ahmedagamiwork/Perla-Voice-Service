@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>إدارة كتالوج بيرلا الصوتي</title>
+  <link rel="stylesheet" href="/admin/styles.css">
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>إدارة كتالوج بيرلا الصوتي</h1>
+        <p>قاعدة مستقلة لخدمة العملاء والمكالمات — لا ترتبط بتطبيق الطلبيات الداخلي.</p>
+      </div>
+      <span id="status" class="badge">غير متصل</span>
+    </header>
+
+    <section class="card auth">
+      <label>رمز الإدارة</label>
+      <input id="token" type="password" autocomplete="off" placeholder="ADMIN_API_TOKEN">
+      <button id="connect">اتصال</button>
+    </section>
+
+    <nav>
+      <button class="tab active" data-tab="products">المنتجات والأسعار</button>
+      <button class="tab" data-tab="branches">الفروع</button>
+      <button class="tab" data-tab="drafts">مسودات الطلب</button>
+      <button class="tab" data-tab="requests">طلبات المتابعة</button>
+      <button class="tab" data-tab="audit">سجل أدوات الوكيل</button>
+    </nav>
+
+    <section id="products" class="panel active">
+      <div class="toolbar"><input id="search" placeholder="بحث باسم المنتج"><button id="refreshProducts">تحديث</button></div>
+      <div class="table-wrap"><table><thead><tr><th>الكود</th><th>الاسم</th><th>السعر</th><th>الوحدة</th><th>التصنيف</th><th>الخرج</th><th>الدلم</th><th>نشط</th><th>حفظ</th></tr></thead><tbody id="productsBody"></tbody></table></div>
+    </section>
+    <section id="branches" class="panel"><div id="branchesBody" class="cards"></div></section>
+    <section id="drafts" class="panel"><div id="draftsBody" class="cards"></div></section>
+    <section id="requests" class="panel"><div id="requestsBody" class="cards"></div></section>
+    <section id="audit" class="panel"><div id="auditBody" class="cards"></div></section>
+  </main>
+  <script src="/admin/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "project": "perla-voice-service",
+  "version": "1.0.0",
+  "architecture": "standalone customer-service database and MCP service",
+  "source_catalog": "data/source-products.xlsx",
+  "catalog_products": 85,
+  "currency": "SAR",
+  "prices_unified_across_branches": true,
+  "branches": ["ALKHARJ", "DILAM"],
+  "internal_orders_app_connected": false,
+  "write_tools_default_enabled": false
+}
