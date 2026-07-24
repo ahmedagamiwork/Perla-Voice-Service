@@ -53,7 +53,7 @@ export function createPerlaMcpServer(): McpServer {
 
   server.registerTool('search_products', {
     title: 'البحث في منتجات بيرلا',
-    description: 'ابحث في كتالوج بيرلا الرسمي بالاسم أو الاسم الشائع. يعيد السعر الموحد ووحدة البيع وحالة التوفر إن كانت محدثة.',
+    description: 'ابحث في كتالوج بيرلا الرسمي بالاسم أو الاسم الشائع، أو مرّر category لعرض كل منتجات تصنيف كامل (مثلاً كل "المعجنات" أو كل "الحلويات الشرقية"). استخدم list_categories أولاً لمعرفة الاسم الدقيق للتصنيف. يعيد السعر الموحد ووحدة البيع وحالة التوفر إن كانت محدثة.',
     inputSchema: {
       query: z.string().min(1).max(120).describe('اسم المنتج أو جزء منه باللغة العربية'),
       category: z.string().max(120).optional().describe('التصنيف عند الحاجة'),
