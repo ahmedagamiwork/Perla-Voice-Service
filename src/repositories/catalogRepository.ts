@@ -29,16 +29,22 @@ export async function searchProducts(query: string, options: { category?: string
     text: `
       WITH matched AS (
         SELECT p.id,
-               CASE
-                 WHEN p.normalized_name_ar = $1 THEN 100
-                 WHEN EXISTS (SELECT 1 FROM product_aliases pa WHERE pa.product_id = p.id AND pa.normalized_alias_ar = $1) THEN 95
-                 WHEN p.normalized_name_ar LIKE '%' || $1 || '%' THEN 80
-                 WHEN EXISTS (SELECT 1 FROM product_aliases pa WHERE pa.product_id = p.id AND pa.normalized_alias_ar LIKE '%' || $1 || '%') THEN 75
-                 ELSE (
-                   SELECT COALESCE(SUM(CASE WHEN p.normalized_name_ar LIKE '%' || t || '%' THEN 10 ELSE 0 END), 0)
-                   FROM unnest($2::text[]) t
-                 )
-               END AS score
+               GREATEST(
+                 CASE
+                   WHEN p.normalized_name_ar = $1 THEN 100
+                   WHEN EXISTS (SELECT 1 FROM product_aliases pa WHERE pa.product_id = p.id AND pa.normalized_alias_ar = $1) THEN 95
+                   WHEN p.normalized_name_ar LIKE '%' || $1 || '%' THEN 80
+                   WHEN EXISTS (SELECT 1 FROM product_aliases pa WHERE pa.product_id = p.id AND pa.normalized_alias_ar LIKE '%' || $1 || '%') THEN 75
+                   ELSE (
+                     SELECT COALESCE(SUM(CASE WHEN p.normalized_name_ar LIKE '%' || t || '%' THEN 10 ELSE 0 END), 0)
+                     FROM unnest($2::text[]) t
+                   )
+                 END,
+                 -- When the caller filters by category (e.g. "browse all pastries"),
+                 -- every active product in that category should be returned even if
+                 -- its own name doesn't literally contain the search text.
+                 CASE WHEN $3::text IS NOT NULL AND c.normalized_name_ar = $3 THEN 50 ELSE 0 END
+               ) AS score
         FROM products p
         JOIN categories c ON c.id = p.category_id
         WHERE p.is_active = TRUE
