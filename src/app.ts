@@ -4,15 +4,12 @@ import cors from 'cors';
 import rateLimit from 'express-rate-limit';
 import { pinoHttp } from 'pino-http';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 import { env } from './config/env.js';
 import { pool } from './db/pool.js';
 import { mcpRouter } from './routes/mcpRoutes.js';
 import { voiceRouter } from './routes/voiceRoutes.js';
 import { adminRouter } from './routes/adminRoutes.js';
 import { errorHandler, notFound } from './middleware/errors.js';
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export function createApp() {
   const app = express();
@@ -50,7 +47,7 @@ export function createApp() {
   app.use('/mcp', voiceLimiter, mcpRouter);
   app.use('/api/v1/voice', voiceLimiter, voiceRouter);
   app.use('/api/v1/admin', adminRouter);
-  app.use('/admin', express.static(path.resolve(__dirname, '../../public')));
+  app.use('/admin', express.static(path.resolve(process.cwd(), 'public')));
   app.get('/', (_req, res) => res.json({ service: 'Perla Voice Service', admin: '/admin', health: '/health', mcp: '/mcp' }));
 
   app.use(notFound);
