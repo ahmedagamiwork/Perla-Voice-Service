@@ -5,16 +5,19 @@ const key = Buffer.from(env.PII_ENCRYPTION_KEY, 'hex');
 
 export function safeTokenEqual(expected: string, actual?: string): boolean {
   if (!actual) return false;
-  const a = Buffer.from(expected);
-  const b = Buffer.from(actual);
+
+  const a = Buffer.from(expected.trim(), 'utf8');
+  const b = Buffer.from(actual.trim(), 'utf8');
+
   if (a.length !== b.length) return false;
   return crypto.timingSafeEqual(a, b);
 }
 
 export function extractBearer(header?: string): string | undefined {
   if (!header) return undefined;
-  const [scheme, token] = header.split(' ');
-  return scheme?.toLowerCase() === 'bearer' && token ? token : undefined;
+
+  const match = header.match(/^Bearer\s+(.+)$/i);
+  return match?.[1]?.trim() || undefined;
 }
 
 export function normalizePhone(input: string): string {
